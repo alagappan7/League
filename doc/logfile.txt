@@ -1,0 +1,80 @@
+Project documentation
+<---- javadoc command: ---->
+C:\Program Files\BlueJ\jdk\bin\javadoc.exe
+-sourcepath
+D:\NCL docs\OOPS\pratial\Sportsleague
+-source
+17
+-classpath
+C:\Program Files\BlueJ\lib\bluejcore.jar;C:\Program Files\BlueJ\lib\junit-jupiter-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-api-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-engine-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-migrationsupport-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-params-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-commons-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-console-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-console-standalone-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-engine-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-launcher-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-reporting-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-runner-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-suite-api-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-testkit-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-quickcheck-core-0.9.jar;C:\Program Files\BlueJ\lib\junit-vintage-engine-5.5.2.jar;C:\Program Files\BlueJ\lib\hamcrest-core-1.3.jar;C:\Program Files\BlueJ\lib\hamcrest-library-1.3.jar;C:\Program Files\BlueJ\lib\lang-stride.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.base.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.controls.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.fxml.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.graphics.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.media.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.properties.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.swing.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.web.jar;D:\NCL docs\OOPS\pratial\Sportsleague
+-d
+D:\NCL docs\OOPS\pratial\Sportsleague\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-doctitle
+Sportsleague
+-windowtitle
+Sportsleague
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-link
+https://docs.oracle.com/en/java/javase/11/docs/api/
+D:\NCL docs\OOPS\pratial\Sportsleague/Player.java
+D:\NCL docs\OOPS\pratial\Sportsleague/League.java
+D:\NCL docs\OOPS\pratial\Sportsleague/MainLeague.java
+D:\NCL docs\OOPS\pratial\Sportsleague/Matches.java
+D:\NCL docs\OOPS\pratial\Sportsleague/Club.java
+<---- end of javadoc command ---->
+Loading source file D:\NCL docs\OOPS\pratial\Sportsleague\Player.java...
+Loading source file D:\NCL docs\OOPS\pratial\Sportsleague\League.java...
+Loading source file D:\NCL docs\OOPS\pratial\Sportsleague\MainLeague.java...
+Loading source file D:\NCL docs\OOPS\pratial\Sportsleague\Matches.java...
+Loading source file D:\NCL docs\OOPS\pratial\Sportsleague\Club.java...
+Constructing Javadoc information...
+Building index for all the packages and classes...
+Standard Doclet version 17.0.4+8
+Building tree for all the packages and classes...
+Generating D:\NCL docs\OOPS\pratial\Sportsleague\doc\Club.html...
+D:\NCL docs\OOPS\pratial\Sportsleague\Club.java:56: warning: @param argument "y" is not a parameter name.
+     * @param  y  a sample parameter for a method
+       ^
+Generating D:\NCL docs\OOPS\pratial\Sportsleague\doc\League.html...
+D:\NCL docs\OOPS\pratial\Sportsleague\League.java:42: warning: @param argument "y" is not a parameter name.
+     * @param  y  a sample parameter for a method
+       ^
+D:\NCL docs\OOPS\pratial\Sportsleague\League.java:45: warning: @return tag cannot be used in method with void return type.
+    public void setleaguename(String name)
+                ^
+Generating D:\NCL docs\OOPS\pratial\Sportsleague\doc\MainLeague.html...
+D:\NCL docs\OOPS\pratial\Sportsleague\MainLeague.java:35: warning: Tag @return cannot be used in constructor documentation.  It can only be used in the following types of documentation: method, inline text.
+     * @return    the sum of x and y
+       ^
+D:\NCL docs\OOPS\pratial\Sportsleague\MainLeague.java:34: warning: @param argument "y" is not a parameter name.
+     * @param  y  a sample parameter for a method
+       ^
+Generating D:\NCL docs\OOPS\pratial\Sportsleague\doc\Matches.html...
+D:\NCL docs\OOPS\pratial\Sportsleague\Matches.java:51: warning: @param argument "y" is not a parameter name.
+     * @param  y  a sample parameter for a method
+       ^
+Generating D:\NCL docs\OOPS\pratial\Sportsleague\doc\Player.html...
+D:\NCL docs\OOPS\pratial\Sportsleague\Player.java:41: warning: @param argument "y" is not a parameter name.
+     * @param  y  a sample parameter for a method
+       ^
+D:\NCL docs\OOPS\pratial\Sportsleague\Player.java:44: warning: @return tag cannot be used in method with void return type.
+    public void Player(String Name, String DOB, int age, int height, String club, int id)
+                ^
+Generating D:\NCL docs\OOPS\pratial\Sportsleague\doc\package-summary.html...
+Generating D:\NCL docs\OOPS\pratial\Sportsleague\doc\package-tree.html...
+Generating D:\NCL docs\OOPS\pratial\Sportsleague\doc\overview-tree.html...
+Building index for all classes...
+Generating D:\NCL docs\OOPS\pratial\Sportsleague\doc\allclasses-index.html...
+Generating D:\NCL docs\OOPS\pratial\Sportsleague\doc\allpackages-index.html...
+Generating D:\NCL docs\OOPS\pratial\Sportsleague\doc\index-all.html...
+Generating D:\NCL docs\OOPS\pratial\Sportsleague\doc\index.html...
+Generating D:\NCL docs\OOPS\pratial\Sportsleague\doc\help-doc.html...
+8 warnings

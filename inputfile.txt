@@ -1,0 +1,21 @@
+3 number of clubs
+5 number of player in each club
+Alpha,Beta,15,160,2,arsenal
+Alpha,Beta,15,160,2,arsenal
+Alpha,Beta,15,160,2,arsenal
+Alpha,Beta,15,160,2,arsenal
+Alpha,Beta,15,160,2,arsenal
+5 number of player in each club
+Alpha,Beta,15,160,2,arsenal
+Alpha,Beta,15,160,2,arsenal
+Alpha,Beta,15,160,2,arsenal
+Alpha,Beta,15,160,2,arsenal
+Alpha,Beta,15,160,2,arsenal
+5 number of player in each club
+Alpha,Beta,15,160,2,arsenal
+Alpha,Beta,15,160,2,arsenal
+Alpha,Beta,15,160,2,arsenal
+Alpha,Beta,15,160,2,arsenal
+Alpha,Beta,15,160,2,arsenal
+
+

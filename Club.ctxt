@@ -1,0 +1,31 @@
+#BlueJ class context
+comment0.target=Club
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Club\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=cname
+comment1.target=Club(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Club\r\n
+comment10.params=hg\ ag
+comment10.target=int\ changepoints(int,\ int)
+comment11.params=
+comment11.target=int\ getpoints()
+comment12.params=
+comment12.target=java.lang.String\ toString()
+comment12.text=Method\ to\ find\ if\ a\ player\ is\ part\ of\ a\ club.\r\n\ \ \ \ \ \ \ Initially\ iterating\ the\ arraylist\ player\ using\ a\ forloop\ \r\n\ \ \ \ \ \ \ using\ the\ club\ method\ from\ player\ lass\ getting\ the\ club\ name\r\n\ \ \ \ \ \ \ if\ returned\ club\ name\ is\ same\ as\ input\ club\ name\ then\ club\ players\ name\ are\ parsed\ for\ finding\ the\ player\ within\ the\ club\r\n\ \ \ \ public\ void\ playercheck(String\ name,\ String\ club){\r\n\ \ \ \ \ \ \ \ for(Player\ pname\:\ player){\r\n\ \ \ \ \ \ \ \ \ \ \ \ clubcheck\ \=\ pname.club();\r\n\ \ \ \ \ \ \ \ \ \ \ \ if(clubcheck.equals(\ club)){\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ String\ plname\ \=\ pname.playern();\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ if(plname.equals(\ name)){\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ System.out.println("Player\ is\ part\ of\ the\ club"\ +\ plname);\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ break;\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ else{\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ System.out.println("Player\ is\ not\ part\ of\ the\ club"\ +\ plname);\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ \ \ \ \ else{\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ System.out.println("Player\ is\ not\ part\ of\ the\ club"\ +club);\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ System.out.println("Player\ is\ not\ part\ of\ the\ club\ is"\ +clubcheck);\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ continue;\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ }\r\n\ \ \ \ \r\n\ \ \ \ public\ void\ avgage(){\r\n\ \ \ \ \ \ \ \ int\ index\ \=\ 0;\r\n\ \ \ \ \ \ \ \ int\ averageage\ \=\ 0;\r\n\ \ \ \ \ \ \ \ for(Player\ pname\:\ player){\r\n\ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ index\ \=\ index\ +1;\r\n\ \ \ \ \ \ \ \ \ \ \ \ int\ age1\ \=\ pname.age();\r\n\ \ \ \ \ \ \ \ \ \ \ \ averageage\ \=\ averageage+age1;\r\n\ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ averageage\ \=\ averageage\ /\ index;\r\n\ \ \ \ \ \ \ \ System.out.println("Average\ age\ of\ the\ squad\ is"\ +\ averageage);\r\n\ \ \ \ }\r\n\ \ \ \ \r\n\ \ \ \ public\ void\ avghieght(){\r\n\ \ \ \ \ \ \ \ int\ index\ \=\ 0;\r\n\ \ \ \ \ \ \ \ int\ averageheight\ \=\ 0;\r\n\ \ \ \ \ \ \ \ for(Player\ pname\:\ player){\r\n\ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ index\ \=\ index\ +1;\r\n\ \ \ \ \ \ \ \ \ \ \ \ int\ height1\ \=\ pname.height();\r\n\ \ \ \ \ \ \ \ \ \ \ \ averageheight\ \=\ averageheight+height1;\r\n\ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ }\r\n}
+comment2.params=Cname\ gs\ gc\ gd\ point
+comment2.target=Club(java.lang.String,\ int,\ int,\ int,\ int)
+comment3.params=cname
+comment3.target=java.lang.String\ setName(java.lang.String)
+comment3.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=goalsdone
+comment5.target=int\ GoalScored(int)
+comment6.params=
+comment6.target=int\ goalscor()
+comment7.params=goalrecieved
+comment7.target=int\ GOalConceded(int)
+comment8.params=
+comment8.target=int\ goalcon()
+comment9.params=
+comment9.target=int\ goaldiff()
+numComments=13
