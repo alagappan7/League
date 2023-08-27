@@ -26,6 +26,9 @@ Each player (e.g. Leon Best) has a date of birth and a height, and plays for one
 end  of a  league  season, the  player  who has  scored the most  goals  (i.e. has  the  largest  goal 
 tally) wins the Golden Boot trophy.  
 ---------------------------------------------------------------------
+Implementation:
 Automated the fixtures based on the input teams.
+From the squad list of the input team - playing 11 is selected based on a boolean input.
 Generated the results using Random function.
+
 
